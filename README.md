@@ -6,7 +6,7 @@
 <p align="center"><a title="张小妞的博客" target="_blank" href="https://github.com/zxniuniu/solo-blog"><img src="https://img.shields.io/github/last-commit/zxniuniu/solo-blog.svg?style=flat-square"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github/zxniuniu/solo-blog"><img src="https://img.shields.io/github/repo-size/zxniuniu/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.5.0-f1e05a.svg?style=flat-square"></a>
-</p>
+<a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/zxniuniu/solo-blog.svg"></a></p>
 
 ### 最新
 
