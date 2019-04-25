@@ -52,11 +52,12 @@
 * [Migrating MariaDB Data Into Elasticsearch Using Logstash](https://fuyiyi.imdo.co/articles/2019/01/04/1546576680169.html)
 * [在Java中调用Python](https://fuyiyi.imdo.co/articles/2018/09/09/1536454673406.html)
 * [Spring MVC 控制器定义与@RequestMapping详解](https://fuyiyi.imdo.co/articles/2018/12/23/1545494483392.html)
-* [Redis Windows安装配置与Jedis访问数据库](https://fuyiyi.imdo.co/articles/2018/09/20/1537429625713.html)
+* [Why Redis beats Memcached for caching](https://fuyiyi.imdo.co/articles/2019/02/02/1549069716678.html)
 
 ### 热议
 
 * [阿里Druid数据源配置数据库密码加密](https://fuyiyi.imdo.co/articles/2018/09/18/1537258285996.html)
+* [Redis Windows安装配置与Jedis访问数据库](https://fuyiyi.imdo.co/articles/2018/09/20/1537429625713.html)
 * [Injecting Javascript In HTML Content Using Mitmproxy](https://fuyiyi.imdo.co/articles/2018/10/11/1539269886178.html)
 * [使用 mitmproxy 搭建代理服务器的方式来调试微信开发](https://fuyiyi.imdo.co/articles/2018/10/12/1539357392353.html)
 * [Javascript Injection With Selenium, Puppeteer, And Marionette In Chrome And Firefox](https://fuyiyi.imdo.co/articles/2018/10/12/1539357955729.html)
@@ -66,7 +67,6 @@
 * [16 Tips to Speed-up Your Website](https://fuyiyi.imdo.co/articles/2018/10/18/1539848872657.html)
 * [Dungproxy](https://fuyiyi.imdo.co/articles/2018/10/26/1540514420315.html)
 * [3 ways to start Appium Server from Java](https://fuyiyi.imdo.co/articles/2018/11/04/1541295639948.html)
-* [Why Redis beats Memcached for caching](https://fuyiyi.imdo.co/articles/2019/02/02/1549069716678.html)
 * [Redis高可用集群、哨兵模式（Redis-Sentinel）搭建配置详解](https://fuyiyi.imdo.co/articles/2019/02/02/1549076687909.html)
 * [免费HTTPS证书Let's Encrypt安装教程](https://fuyiyi.imdo.co/articles/2019/02/11/1549854698138.html)
 * [不限速、没有广告，这个 Windows 神器能帮你把网盘内嵌在系统中](https://fuyiyi.imdo.co/articles/2019/02/11/1549856538500.html)
