@@ -50,8 +50,8 @@
 * [Pros and cons of end to end testing tools](https://fuyiyi.imdo.co/articles/2018/11/24/1543063983807.html)
 * [Migrating MariaDB Data Into Elasticsearch Using Logstash](https://fuyiyi.imdo.co/articles/2019/01/04/1546576680169.html)
 * [开源博客Solo零基础搭建，以及Apache、Tomcat下多应用部署](https://fuyiyi.imdo.co/articles/2018/09/08/1536376494775.html)
-* [在Java中调用Python](https://fuyiyi.imdo.co/articles/2018/09/09/1536454673406.html)
 * [Spring MVC 控制器定义与@RequestMapping详解](https://fuyiyi.imdo.co/articles/2018/12/23/1545494483392.html)
+* [在Java中调用Python](https://fuyiyi.imdo.co/articles/2018/09/09/1536454673406.html)
 * [Redis Windows安装配置与Jedis访问数据库](https://fuyiyi.imdo.co/articles/2018/09/20/1537429625713.html)
 
 ### 热议
