@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Make a Custom Web Gallery with Piwigo](https://fuyiyi.imdo.co/articles/2019/05/25/1558775351826.html)
 * [SS/SSR中转V2ray起飞教程](https://fuyiyi.imdo.co/articles/2019/05/23/1558608311047.html)
 * [迅雷再见！你好，Motrix，往后余生，全部是你](https://fuyiyi.imdo.co/articles/2019/05/22/1558521398548.html)
 * [黑科技式 DNS 技术在V2ray代理环境中的应用](https://fuyiyi.imdo.co/articles/2019/05/21/1558442529612.html)
@@ -29,7 +30,6 @@
 * [黑客派（HacPai）图片处理 imageView2 接口使用，可用于摘要图片](https://fuyiyi.imdo.co/articles/2019/02/25/1551085983283.html)
 * [自建基于 Layoutit 的在线 Bootstrap 可视化布局系统](https://fuyiyi.imdo.co/articles/2019/02/25/1551064941317.html)
 * [Windows Server 搭建 MySQL集群](https://fuyiyi.imdo.co/articles/2019/02/23/1550894766125.html)
-* [搭建Tomcat集群&通过Redis缓存共享session的一种流行方案](https://fuyiyi.imdo.co/articles/2019/02/02/1549081414704.html)
 
 ### 热门
 
@@ -67,6 +67,7 @@
 * [3 ways to start Appium Server from Java](https://fuyiyi.imdo.co/articles/2018/11/04/1541295639948.html)
 * [Why Redis beats Memcached for caching](https://fuyiyi.imdo.co/articles/2019/02/02/1549069716678.html)
 * [Redis高可用集群、哨兵模式（Redis-Sentinel）搭建配置详解](https://fuyiyi.imdo.co/articles/2019/02/02/1549076687909.html)
+* [搭建Tomcat集群&通过Redis缓存共享session的一种流行方案](https://fuyiyi.imdo.co/articles/2019/02/02/1549081414704.html)
 * [免费HTTPS证书Let's Encrypt安装教程](https://fuyiyi.imdo.co/articles/2019/02/11/1549854698138.html)
 * [不限速、没有广告，这个 Windows 神器能帮你把网盘内嵌在系统中](https://fuyiyi.imdo.co/articles/2019/02/11/1549856538500.html)
 * [彻底关闭停止Win10自动更新的两个方法](https://fuyiyi.imdo.co/articles/2019/02/11/1549856602470.html)
@@ -75,7 +76,6 @@
 * [Nginx第三方模块试用及十个参数性能优化](https://fuyiyi.imdo.co/articles/2019/02/19/1550554739444.html)
 * [视频,网页地址](https://fuyiyi.imdo.co/articles/2019/02/19/1550556781219.html)
 * [OpenResty中的ngx.location.capture和ngx.location.capture_multi使用](https://fuyiyi.imdo.co/articles/2019/02/21/1550713663087.html)
-* [阿里Druid数据源配置数据库密码加密](https://fuyiyi.imdo.co/articles/2018/09/18/1537258285996.html)
 
 ---
 
