@@ -51,8 +51,8 @@
 * [开源博客Solo零基础搭建，以及Apache、Tomcat下多应用部署](https://fuyiyi.imdo.co/articles/2018/09/08/1536376494775.html)
 * [Migrating MariaDB Data Into Elasticsearch Using Logstash](https://fuyiyi.imdo.co/articles/2019/01/04/1546576680169.html)
 * [Spring MVC 控制器定义与@RequestMapping详解](https://fuyiyi.imdo.co/articles/2018/12/23/1545494483392.html)
-* [Redis Windows安装配置与Jedis访问数据库](https://fuyiyi.imdo.co/articles/2018/09/20/1537429625713.html)
 * [阿里Druid数据源配置数据库密码加密](https://fuyiyi.imdo.co/articles/2018/09/18/1537258285996.html)
+* [Redis Windows安装配置与Jedis访问数据库](https://fuyiyi.imdo.co/articles/2018/09/20/1537429625713.html)
 
 ### 热议
 
