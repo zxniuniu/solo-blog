@@ -71,11 +71,11 @@
 * [免费HTTPS证书Let's Encrypt安装教程](https://fuyiyi.imdo.co/articles/2019/02/11/1549854698138.html)
 * [不限速、没有广告，这个 Windows 神器能帮你把网盘内嵌在系统中](https://fuyiyi.imdo.co/articles/2019/02/11/1549856538500.html)
 * [彻底关闭停止Win10自动更新的两个方法](https://fuyiyi.imdo.co/articles/2019/02/11/1549856602470.html)
-* [贼有用的免费申请HTTPS证书教程](https://fuyiyi.imdo.co/articles/2019/02/11/1549860308781.html)
 * [超棒的 15 款 Bootstrap UI 编辑器](https://fuyiyi.imdo.co/articles/2019/02/13/1550046963221.html)
 * [Nginx第三方模块试用及十个参数性能优化](https://fuyiyi.imdo.co/articles/2019/02/19/1550554739444.html)
 * [视频,网页地址](https://fuyiyi.imdo.co/articles/2019/02/19/1550556781219.html)
 * [OpenResty中的ngx.location.capture和ngx.location.capture_multi使用](https://fuyiyi.imdo.co/articles/2019/02/21/1550713663087.html)
+* [Windows Server 搭建 MySQL集群](https://fuyiyi.imdo.co/articles/2019/02/23/1550894766125.html)
 
 ---
 
