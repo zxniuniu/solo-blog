@@ -52,7 +52,7 @@
 * [Migrating MariaDB Data Into Elasticsearch Using Logstash](https://fuyiyi.imdo.co/articles/2019/01/04/1546576680169.html)
 * [阿里Druid数据源配置数据库密码加密](https://fuyiyi.imdo.co/articles/2018/09/18/1537258285996.html)
 * [Spring MVC 控制器定义与@RequestMapping详解](https://fuyiyi.imdo.co/articles/2018/12/23/1545494483392.html)
-* [在Java中调用Python](https://fuyiyi.imdo.co/articles/2018/09/09/1536454673406.html)
+* [Windows Server 搭建 MySQL集群](https://fuyiyi.imdo.co/articles/2019/02/23/1550894766125.html)
 
 ### 热议
 
@@ -75,7 +75,7 @@
 * [Nginx第三方模块试用及十个参数性能优化](https://fuyiyi.imdo.co/articles/2019/02/19/1550554739444.html)
 * [视频,网页地址](https://fuyiyi.imdo.co/articles/2019/02/19/1550556781219.html)
 * [OpenResty中的ngx.location.capture和ngx.location.capture_multi使用](https://fuyiyi.imdo.co/articles/2019/02/21/1550713663087.html)
-* [Windows Server 搭建 MySQL集群](https://fuyiyi.imdo.co/articles/2019/02/23/1550894766125.html)
+* [自建基于 Layoutit 的在线 Bootstrap 可视化布局系统](https://fuyiyi.imdo.co/articles/2019/02/25/1551064941317.html)
 
 ---
 
