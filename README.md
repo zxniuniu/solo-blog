@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [基于 KMS 服务的 Windows、Office 激活](https://fuyiyi.imdo.co/articles/2019/07/18/1563456163229.html)
 * [mywiz邮箱使用方法](https://fuyiyi.imdo.co/articles/2019/06/13/1560405446349.html)
 * [用Mywiz邮箱订阅RSS信息](https://fuyiyi.imdo.co/articles/2019/06/13/1560405422247.html)
 * [感受Lambda之美，推荐收藏，需要时查阅](https://fuyiyi.imdo.co/articles/2019/06/09/1560086633135.html)
@@ -29,7 +30,6 @@
 * [MySQL InnoDB Cluster : MySQL Shell and the AdminAPI](https://fuyiyi.imdo.co/articles/2019/03/15/1552655703703.html)
 * [MySQL InnoDB Cluster: MySQL Shell starter guide](https://fuyiyi.imdo.co/articles/2019/03/15/1552635882569.html)
 * [JedisPool资源池优化及常见问题汇总](https://fuyiyi.imdo.co/articles/2019/03/12/1552377395451.html)
-* [Webmagic分布式抓取及断点续抓](https://fuyiyi.imdo.co/articles/2019/03/05/1551771448799.html)
 
 ### 热门
 
@@ -71,11 +71,11 @@
 * [免费HTTPS证书Let's Encrypt安装教程](https://fuyiyi.imdo.co/articles/2019/02/11/1549854698138.html)
 * [不限速、没有广告，这个 Windows 神器能帮你把网盘内嵌在系统中](https://fuyiyi.imdo.co/articles/2019/02/11/1549856538500.html)
 * [彻底关闭停止Win10自动更新的两个方法](https://fuyiyi.imdo.co/articles/2019/02/11/1549856602470.html)
+* [在Java中调用Python](https://fuyiyi.imdo.co/articles/2018/09/09/1536454673406.html)
 * [超棒的 15 款 Bootstrap UI 编辑器](https://fuyiyi.imdo.co/articles/2019/02/13/1550046963221.html)
 * [Nginx第三方模块试用及十个参数性能优化](https://fuyiyi.imdo.co/articles/2019/02/19/1550554739444.html)
 * [视频,网页地址](https://fuyiyi.imdo.co/articles/2019/02/19/1550556781219.html)
 * [OpenResty中的ngx.location.capture和ngx.location.capture_multi使用](https://fuyiyi.imdo.co/articles/2019/02/21/1550713663087.html)
-* [自建基于 Layoutit 的在线 Bootstrap 可视化布局系统](https://fuyiyi.imdo.co/articles/2019/02/25/1551064941317.html)
 
 ---
 
