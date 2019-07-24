@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](https://fuyiyi.imdo.co/my-github-repos)
+* [用 MacType 拯救你的 Windows 字体](https://fuyiyi.imdo.co/articles/2019/07/24/1563950864037.html)
 * [基于 KMS 服务的 Windows、Office 激活](https://fuyiyi.imdo.co/articles/2019/07/18/1563456163229.html)
 * [mywiz邮箱使用方法](https://fuyiyi.imdo.co/articles/2019/06/13/1560405446349.html)
 * [用Mywiz邮箱订阅RSS信息](https://fuyiyi.imdo.co/articles/2019/06/13/1560405422247.html)
@@ -28,8 +30,6 @@
 * [Understanding – Group Replication and InnoDB Cluster](https://fuyiyi.imdo.co/articles/2019/03/16/1552743939239.html)
 * [MySQL InnoDB Cluser 多主模式实现高可用负载均衡](https://fuyiyi.imdo.co/articles/2019/03/16/1552738515472.html)
 * [MySQL InnoDB Cluster : MySQL Shell and the AdminAPI](https://fuyiyi.imdo.co/articles/2019/03/15/1552655703703.html)
-* [MySQL InnoDB Cluster: MySQL Shell starter guide](https://fuyiyi.imdo.co/articles/2019/03/15/1552635882569.html)
-* [JedisPool资源池优化及常见问题汇总](https://fuyiyi.imdo.co/articles/2019/03/12/1552377395451.html)
 
 ### 热门
 
@@ -42,6 +42,7 @@
 * [使用 Mitmproxy 和 Python 做拦截代理](https://fuyiyi.imdo.co/articles/2018/10/10/1539183788285.html)
 * [SS、SSR链接解析，查看对应密码、端口、协议](https://fuyiyi.imdo.co/articles/2018/10/24/1540351937866.html)
 * [How to Run Java Program Automatically on Tomcat Startup](https://fuyiyi.imdo.co/articles/2018/10/09/1539064578164.html)
+* [JedisPool资源池优化及常见问题汇总](https://fuyiyi.imdo.co/articles/2019/03/12/1552377395451.html)
 * [Apache Web Server Hardening and Security Guide](https://fuyiyi.imdo.co/articles/2018/10/04/1538621106899.html)
 * [如何突破网站对Selenium的屏蔽](https://fuyiyi.imdo.co/articles/2018/10/12/1539355419624.html)
 * [A Step By Step Guide to Tomcat Performance Monitoring](https://fuyiyi.imdo.co/articles/2018/11/22/1542873600838.html)
@@ -52,7 +53,6 @@
 * [Migrating MariaDB Data Into Elasticsearch Using Logstash](https://fuyiyi.imdo.co/articles/2019/01/04/1546576680169.html)
 * [阿里Druid数据源配置数据库密码加密](https://fuyiyi.imdo.co/articles/2018/09/18/1537258285996.html)
 * [Spring MVC 控制器定义与@RequestMapping详解](https://fuyiyi.imdo.co/articles/2018/12/23/1545494483392.html)
-* [Windows Server 搭建 MySQL集群](https://fuyiyi.imdo.co/articles/2019/02/23/1550894766125.html)
 
 ### 热议
 
@@ -66,7 +66,6 @@
 * [Dungproxy](https://fuyiyi.imdo.co/articles/2018/10/26/1540514420315.html)
 * [3 ways to start Appium Server from Java](https://fuyiyi.imdo.co/articles/2018/11/04/1541295639948.html)
 * [Why Redis beats Memcached for caching](https://fuyiyi.imdo.co/articles/2019/02/02/1549069716678.html)
-* [Redis高可用集群、哨兵模式（Redis-Sentinel）搭建配置详解](https://fuyiyi.imdo.co/articles/2019/02/02/1549076687909.html)
 * [搭建Tomcat集群&通过Redis缓存共享session的一种流行方案](https://fuyiyi.imdo.co/articles/2019/02/02/1549081414704.html)
 * [免费HTTPS证书Let's Encrypt安装教程](https://fuyiyi.imdo.co/articles/2019/02/11/1549854698138.html)
 * [不限速、没有广告，这个 Windows 神器能帮你把网盘内嵌在系统中](https://fuyiyi.imdo.co/articles/2019/02/11/1549856538500.html)
@@ -76,6 +75,7 @@
 * [Nginx第三方模块试用及十个参数性能优化](https://fuyiyi.imdo.co/articles/2019/02/19/1550554739444.html)
 * [视频,网页地址](https://fuyiyi.imdo.co/articles/2019/02/19/1550556781219.html)
 * [OpenResty中的ngx.location.capture和ngx.location.capture_multi使用](https://fuyiyi.imdo.co/articles/2019/02/21/1550713663087.html)
+* [Windows Server 搭建 MySQL集群](https://fuyiyi.imdo.co/articles/2019/02/23/1550894766125.html)
 
 ---
 
