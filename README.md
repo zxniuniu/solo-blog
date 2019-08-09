@@ -10,8 +10,7 @@
 
 ### 最新
 
-* [我在 GitHub 上的开源项目](https://fuyiyi.imdo.co/my-github-repos)
-* [用 MacType 拯救你的 Windows 字体](https://fuyiyi.imdo.co/articles/2019/07/24/1563950864037.html)
+* [MacType 美化 Windows10 字体，体验类 Mac 顺滑字体](https://fuyiyi.imdo.co/articles/2019/08/09/1565314018351.html)
 * [基于 KMS 服务的 Windows、Office 激活](https://fuyiyi.imdo.co/articles/2019/07/18/1563456163229.html)
 * [mywiz邮箱使用方法](https://fuyiyi.imdo.co/articles/2019/06/13/1560405446349.html)
 * [用Mywiz邮箱订阅RSS信息](https://fuyiyi.imdo.co/articles/2019/06/13/1560405422247.html)
@@ -30,6 +29,7 @@
 * [Understanding – Group Replication and InnoDB Cluster](https://fuyiyi.imdo.co/articles/2019/03/16/1552743939239.html)
 * [MySQL InnoDB Cluser 多主模式实现高可用负载均衡](https://fuyiyi.imdo.co/articles/2019/03/16/1552738515472.html)
 * [MySQL InnoDB Cluster : MySQL Shell and the AdminAPI](https://fuyiyi.imdo.co/articles/2019/03/15/1552655703703.html)
+* [MySQL InnoDB Cluster: MySQL Shell starter guide](https://fuyiyi.imdo.co/articles/2019/03/15/1552635882569.html)
 
 ### 热门
 
