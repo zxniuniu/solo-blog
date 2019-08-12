@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [chrome 67版本后无法拖拽离线安装CRX格式插件的解决方法](https://fuyiyi.imdo.co/articles/2019/08/12/1565575993052.html)
 * [MacType 美化 Windows10 字体，体验类 Mac 顺滑字体](https://fuyiyi.imdo.co/articles/2019/08/09/1565314018351.html)
 * [基于 KMS 服务的 Windows、Office 激活](https://fuyiyi.imdo.co/articles/2019/07/18/1563456163229.html)
 * [mywiz邮箱使用方法](https://fuyiyi.imdo.co/articles/2019/06/13/1560405446349.html)
@@ -29,7 +30,6 @@
 * [Understanding – Group Replication and InnoDB Cluster](https://fuyiyi.imdo.co/articles/2019/03/16/1552743939239.html)
 * [MySQL InnoDB Cluser 多主模式实现高可用负载均衡](https://fuyiyi.imdo.co/articles/2019/03/16/1552738515472.html)
 * [MySQL InnoDB Cluster : MySQL Shell and the AdminAPI](https://fuyiyi.imdo.co/articles/2019/03/15/1552655703703.html)
-* [MySQL InnoDB Cluster: MySQL Shell starter guide](https://fuyiyi.imdo.co/articles/2019/03/15/1552635882569.html)
 
 ### 热门
 
@@ -60,22 +60,22 @@
 * [使用 mitmproxy 搭建代理服务器的方式来调试微信开发](https://fuyiyi.imdo.co/articles/2018/10/12/1539357392353.html)
 * [Javascript Injection With Selenium, Puppeteer, And Marionette In Chrome And Firefox](https://fuyiyi.imdo.co/articles/2018/10/12/1539357955729.html)
 * [快来学习怎么可视化监控你的爬虫](https://fuyiyi.imdo.co/articles/2018/10/16/1539669051470.html)
-* [爬虫代理哪家强？十大付费代理详细对比评测出炉！](https://fuyiyi.imdo.co/articles/2018/10/16/1539680984436.html)
 * [A Web Developer’s Guide to Browser Caching](https://fuyiyi.imdo.co/articles/2018/10/18/1539837869502.html)
 * [16 Tips to Speed-up Your Website](https://fuyiyi.imdo.co/articles/2018/10/18/1539848872657.html)
 * [Dungproxy](https://fuyiyi.imdo.co/articles/2018/10/26/1540514420315.html)
 * [3 ways to start Appium Server from Java](https://fuyiyi.imdo.co/articles/2018/11/04/1541295639948.html)
 * [Why Redis beats Memcached for caching](https://fuyiyi.imdo.co/articles/2019/02/02/1549069716678.html)
+* [在Java中调用Python](https://fuyiyi.imdo.co/articles/2018/09/09/1536454673406.html)
 * [搭建Tomcat集群&通过Redis缓存共享session的一种流行方案](https://fuyiyi.imdo.co/articles/2019/02/02/1549081414704.html)
 * [免费HTTPS证书Let's Encrypt安装教程](https://fuyiyi.imdo.co/articles/2019/02/11/1549854698138.html)
 * [不限速、没有广告，这个 Windows 神器能帮你把网盘内嵌在系统中](https://fuyiyi.imdo.co/articles/2019/02/11/1549856538500.html)
 * [彻底关闭停止Win10自动更新的两个方法](https://fuyiyi.imdo.co/articles/2019/02/11/1549856602470.html)
-* [在Java中调用Python](https://fuyiyi.imdo.co/articles/2018/09/09/1536454673406.html)
 * [超棒的 15 款 Bootstrap UI 编辑器](https://fuyiyi.imdo.co/articles/2019/02/13/1550046963221.html)
 * [Nginx第三方模块试用及十个参数性能优化](https://fuyiyi.imdo.co/articles/2019/02/19/1550554739444.html)
 * [视频,网页地址](https://fuyiyi.imdo.co/articles/2019/02/19/1550556781219.html)
 * [OpenResty中的ngx.location.capture和ngx.location.capture_multi使用](https://fuyiyi.imdo.co/articles/2019/02/21/1550713663087.html)
 * [Windows Server 搭建 MySQL集群](https://fuyiyi.imdo.co/articles/2019/02/23/1550894766125.html)
+* [自建基于 Layoutit 的在线 Bootstrap 可视化布局系统](https://fuyiyi.imdo.co/articles/2019/02/25/1551064941317.html)
 
 ---
 
