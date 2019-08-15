@@ -10,7 +10,7 @@
 
 ### 最新
 
-* [chrome 67版本后无法拖拽离线安装CRX格式插件的解决方法](https://fuyiyi.imdo.co/articles/2019/08/12/1565575993052.html)
+* [Chrome 67版本后无法拖拽离线安装crx扩展插件的解决办法](https://fuyiyi.imdo.co/articles/2019/08/12/1565575993052.html)
 * [MacType 美化 Windows10 字体，体验类 Mac 顺滑字体](https://fuyiyi.imdo.co/articles/2019/08/09/1565314018351.html)
 * [基于 KMS 服务的 Windows、Office 激活](https://fuyiyi.imdo.co/articles/2019/07/18/1563456163229.html)
 * [mywiz邮箱使用方法](https://fuyiyi.imdo.co/articles/2019/06/13/1560405446349.html)
@@ -35,8 +35,8 @@
 
 * [自建内网可用JRebel激活服务器](https://fuyiyi.imdo.co/articles/2018/10/09/1539066409411.html)
 * [解决梯子在GFWList模式下不能正常看流媒体的问题](https://fuyiyi.imdo.co/articles/2018/10/26/1540532958285.html)
-* [2018最新EDU邮箱申请-无限谷歌网盘，Office365教育版](https://fuyiyi.imdo.co/articles/2018/11/04/1541296167680.html)
 * [Shadowsocks自定义PAC规则](https://fuyiyi.imdo.co/articles/2018/09/30/1538314978887.html)
+* [2018最新EDU邮箱申请-无限谷歌网盘，Office365教育版](https://fuyiyi.imdo.co/articles/2018/11/04/1541296167680.html)
 * [App爬虫神器Mitmproxy和Mitmdump的使用](https://fuyiyi.imdo.co/articles/2018/10/12/1539357030798.html)
 * [Java 配合 Mitmproxy 实现 HTTPS 抓包调试](https://fuyiyi.imdo.co/articles/2018/10/10/1539181755175.html)
 * [使用 Mitmproxy 和 Python 做拦截代理](https://fuyiyi.imdo.co/articles/2018/10/10/1539183788285.html)
