@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [NoteExpress 实现文献检索、下载、管理、Word参考文献自动引用](https://fuyiyi.imdo.co/articles/2019/10/09/1570595442064.html)
 * [我在 GitHub 上的开源项目](https://fuyiyi.imdo.co/my-github-repos)
 * [Chrome 67版本后无法拖拽离线安装crx扩展插件的解决办法](https://fuyiyi.imdo.co/articles/2019/08/12/1565575993052.html)
 * [MacType 美化 Windows10 字体，体验类 Mac 顺滑字体](https://fuyiyi.imdo.co/articles/2019/08/09/1565314018351.html)
@@ -29,7 +30,6 @@
 * [JedisPool资源池优化及常见问题汇总](https://fuyiyi.imdo.co/articles/2019/03/12/1552377395451.html)
 * [黑客派（HacPai）图片处理 imageView2 接口使用，可用于摘要图片](https://fuyiyi.imdo.co/articles/2019/02/25/1551085983283.html)
 * [自建基于 Layoutit 的在线 Bootstrap 可视化布局系统](https://fuyiyi.imdo.co/articles/2019/02/25/1551064941317.html)
-* [Windows Server 搭建 MySQL集群](https://fuyiyi.imdo.co/articles/2019/02/23/1550894766125.html)
 
 ### 热门
 
@@ -66,6 +66,7 @@
 * [搭建Tomcat集群&通过Redis缓存共享session的一种流行方案](https://fuyiyi.imdo.co/articles/2019/02/02/1549081414704.html)
 * [Nginx第三方模块试用及十个参数性能优化](https://fuyiyi.imdo.co/articles/2019/02/19/1550554739444.html)
 * [OpenResty中的ngx.location.capture和ngx.location.capture_multi使用](https://fuyiyi.imdo.co/articles/2019/02/21/1550713663087.html)
+* [Windows Server 搭建 MySQL集群](https://fuyiyi.imdo.co/articles/2019/02/23/1550894766125.html)
 * [Redis Windows安装配置与Jedis访问数据库](https://fuyiyi.imdo.co/articles/2018/09/20/1537429625713.html)
 
 ---
