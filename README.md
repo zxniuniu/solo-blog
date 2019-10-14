@@ -10,9 +10,9 @@
 
 ### 最新
 
+* [可高级自定义的开源 Piwigo 相册，您的照片管理、浏览专家【强烈推荐】](https://fuyiyi.imdo.co/articles/2019/10/10/1570698539034.html)
 * [无限空间相册管理软件 - 一刻相册](https://fuyiyi.imdo.co/articles/2019/10/10/1570675261608.html)
 * [NoteExpress 实现文献检索、下载、管理、Word参考文献自动引用](https://fuyiyi.imdo.co/articles/2019/10/09/1570595442064.html)
-* [我在 GitHub 上的开源项目](https://fuyiyi.imdo.co/my-github-repos)
 * [Chrome 67版本后无法拖拽离线安装crx扩展插件的解决办法](https://fuyiyi.imdo.co/articles/2019/08/12/1565575993052.html)
 * [MacType 美化 Windows10 字体，体验类 Mac 顺滑字体](https://fuyiyi.imdo.co/articles/2019/08/09/1565314018351.html)
 * [基于 KMS 服务的 Windows、Office 激活](https://fuyiyi.imdo.co/articles/2019/07/18/1563456163229.html)
