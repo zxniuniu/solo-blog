@@ -5,7 +5,7 @@
 <h4 align="center"><font color="green" size="5em"><strong>FAMILY</strong></font> = <font color="green" size="5em"><strong>F</strong></font>ather <font color="green" size="5em"><strong>A</strong></font>nd <font color="green" size="5em"><strong>M</strong></font>other <font color="green" size="5em"><strong>I</strong></font> <font color="green" size="5em"><strong>L</strong></font>ove <font color="green" size="5em"><strong>Y</strong></font>ou</h4>
 <p align="center"><a title="随心笔客，张小妞的博客" target="_blank" href="https://github.com/zxniuniu/solo-blog"><img src="https://img.shields.io/github/last-commit/zxniuniu/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/zxniuniu/solo-blog"><img src="https://img.shields.io/github/repo-size/zxniuniu/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.5-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.6-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/zxniuniu/solo-blog.svg"></a></p>
 
 ### 最新
@@ -36,8 +36,8 @@
 * [Shadowsocks自定义PAC规则](https://fuyiyi.imdo.co/articles/2018/09/30/1538314978887.html)
 * [解决梯子在GFWList模式下不能正常看流媒体的问题](https://fuyiyi.imdo.co/articles/2018/10/26/1540532958285.html)
 * [自建内网可用JRebel激活服务器](https://fuyiyi.imdo.co/articles/2018/10/09/1539066409411.html)
-* [2018最新EDU邮箱申请-无限谷歌网盘，Office365教育版](https://fuyiyi.imdo.co/articles/2018/11/04/1541296167680.html)
 * [SS、SSR链接解析，查看对应密码、端口、协议](https://fuyiyi.imdo.co/articles/2018/10/24/1540351937866.html)
+* [2018最新EDU邮箱申请-无限谷歌网盘，Office365教育版](https://fuyiyi.imdo.co/articles/2018/11/04/1541296167680.html)
 * [开源博客Solo零基础搭建，以及Apache、Tomcat下多应用部署](https://fuyiyi.imdo.co/articles/2018/09/08/1536376494775.html)
 * [App爬虫神器Mitmproxy和Mitmdump的使用](https://fuyiyi.imdo.co/articles/2018/10/12/1539357030798.html)
 * [Java 配合 Mitmproxy 实现 HTTPS 抓包调试](https://fuyiyi.imdo.co/articles/2018/10/10/1539181755175.html)
