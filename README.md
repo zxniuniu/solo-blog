@@ -1,4 +1,4 @@
-<p align="center"><img alt="随心笔客，张小妞的博客" src="https://fuyiyi.imdo.co/favicon.png"></p><h2 align="center">
+<p align="center"><img alt="随心笔客，张小妞的博客" src="favicon.ico"></p><h2 align="center">
 随心笔客，张小妞的博客
 </h2>
 
