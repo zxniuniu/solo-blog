@@ -5,8 +5,8 @@
 <h4 align="center"><font color="green" size="5em"><strong>FAMILY</strong></font> = <font color="green" size="5em"><strong>F</strong></font>ather <font color="green" size="5em"><strong>A</strong></font>nd <font color="green" size="5em"><strong>M</strong></font>other <font color="green" size="5em"><strong>I</strong></font> <font color="green" size="5em"><strong>L</strong></font>ove <font color="green" size="5em"><strong>Y</strong></font>ou</h4>
 <p align="center"><a title="随心笔客，张小妞的博客" target="_blank" href="https://github.com/zxniuniu/solo-blog"><img src="https://img.shields.io/github/last-commit/zxniuniu/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/zxniuniu/solo-blog"><img src="https://img.shields.io/github/repo-size/zxniuniu/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.6-f1e05a.svg?style=flat-square&color=blueviolet"></a>
-<a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/zxniuniu/solo-blog.svg"></a></p>
+<a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.6-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/zxniuniu/solo-blog.svg"></a></p>
 
 ### 最新
 
@@ -50,8 +50,8 @@
 * [Migrating MariaDB Data Into Elasticsearch Using Logstash](https://fuyiyi.imdo.co/articles/2019/01/04/1546576680169.html)
 * [Web性能优化：图片优化](https://fuyiyi.imdo.co/articles/2018/10/21/1540107913766.html)
 * [Pros and cons of end to end testing tools](https://fuyiyi.imdo.co/articles/2018/11/24/1543063983807.html)
-* [阿里Druid数据源配置数据库密码加密](https://fuyiyi.imdo.co/articles/2018/09/18/1537258285996.html)
 * [在Java中调用Python](https://fuyiyi.imdo.co/articles/2018/09/09/1536454673406.html)
+* [阿里Druid数据源配置数据库密码加密](https://fuyiyi.imdo.co/articles/2018/09/18/1537258285996.html)
 * [Spring MVC 控制器定义与@RequestMapping详解](https://fuyiyi.imdo.co/articles/2018/12/23/1545494483392.html)
 
 ### 热议
@@ -72,4 +72,4 @@
 
 ---
 
-本仓库通过 [Solo](https://github.com/b3log/solo) 自动进行同步更新 ❤️ 
+本仓库通过 [Solo](https://github.com/88250/solo) 自动进行同步更新 ❤️ 
