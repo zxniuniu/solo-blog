@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [使用 JsDeliver CDN 加速 Github 文件](https://fuyiyi.imdo.co/articles/2020/12/14/2107906017139.html)
 * [前端 PDF 打印工具 jsPDF 打印中文时使用思源字体 [解决中文乱码]](https://fuyiyi.imdo.co/articles/2020/11/29/1606649409005.html)
 * [Idea 中使用 JRebel 实现 SpringBoot 热部署](https://fuyiyi.imdo.co/articles/2020/03/26/1585192214841.html)
 * [Springboot 使用 Logback 自动同步指定级别日志到 MariaDB 数据库](https://fuyiyi.imdo.co/articles/2020/03/25/1585146340397.html)
@@ -29,7 +30,6 @@
 * [迅雷再见！你好，Motrix，往后余生，全部是你](https://fuyiyi.imdo.co/articles/2019/05/22/1558521398548.html)
 * [黑科技式 DNS 技术在V2ray代理环境中的应用](https://fuyiyi.imdo.co/articles/2019/05/21/1558442529612.html)
 * [Solo 站外相关阅读链接域名为 null 的问题](https://fuyiyi.imdo.co/articles/2019/05/11/1557559874495.html)
-* [Tomcat 配置导致启动时，项目加载两次的解决办法](https://fuyiyi.imdo.co/articles/2019/05/11/1557556661045.html)
 
 
 
