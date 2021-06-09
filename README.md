@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Cygwin/Msys2 编译安装 Openresty 过程记录](https://fuyiyi.imdo.co/articles/2021/06/09/1623196383353.html)
 * [使用 JsDeliver CDN 加速 Github 文件](https://fuyiyi.imdo.co/articles/2020/12/14/2107906017139.html)
 * [前端 PDF 打印工具 jsPDF 打印中文时使用思源字体 [解决中文乱码]](https://fuyiyi.imdo.co/articles/2020/11/29/1606649409005.html)
 * [Idea 中使用 JRebel 实现 SpringBoot 热部署](https://fuyiyi.imdo.co/articles/2020/03/26/1585192214841.html)
@@ -29,7 +30,6 @@
 * [SS/SSR中转V2ray起飞教程](https://fuyiyi.imdo.co/articles/2019/05/23/1558608311047.html)
 * [迅雷再见！你好，Motrix，往后余生，全部是你](https://fuyiyi.imdo.co/articles/2019/05/22/1558521398548.html)
 * [黑科技式 DNS 技术在V2ray代理环境中的应用](https://fuyiyi.imdo.co/articles/2019/05/21/1558442529612.html)
-* [Solo 站外相关阅读链接域名为 null 的问题](https://fuyiyi.imdo.co/articles/2019/05/11/1557559874495.html)
 
 
 
