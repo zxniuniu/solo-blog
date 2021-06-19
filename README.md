@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [离线安装 npm 包的三种方式（备用）](https://fuyiyi.imdo.co/articles/2021/06/18/1623991245002.html)
 * [Cygwin/Msys2 编译安装 Openresty 过程记录](https://fuyiyi.imdo.co/articles/2021/06/09/1623196383353.html)
 * [使用 JsDeliver CDN 加速 Github 文件](https://fuyiyi.imdo.co/articles/2020/12/14/2107906017139.html)
 * [前端 PDF 打印工具 jsPDF 打印中文时使用思源字体 [解决中文乱码]](https://fuyiyi.imdo.co/articles/2020/11/29/1606649409005.html)
@@ -29,7 +30,6 @@
 * [Spring 定时任务 No qualifying bean of type TaskScheduler available 及 Could not find default TaskScheduler bean异常处理](https://fuyiyi.imdo.co/articles/2019/05/29/1559099232927.html)
 * [SS/SSR中转V2ray起飞教程](https://fuyiyi.imdo.co/articles/2019/05/23/1558608311047.html)
 * [迅雷再见！你好，Motrix，往后余生，全部是你](https://fuyiyi.imdo.co/articles/2019/05/22/1558521398548.html)
-* [黑科技式 DNS 技术在V2ray代理环境中的应用](https://fuyiyi.imdo.co/articles/2019/05/21/1558442529612.html)
 
 
 
