@@ -10,7 +10,8 @@
 
 ### 最新
 
-* [谷歌搜索镜像（2022-09-16 08:05:03）](https://fuyiyi.imdo.co/articles/2022/08/23/1661248650852.html)
+* [获取Hyper-V虚拟服务器磁盘信息（供个人告警使用）](https://fuyiyi.imdo.co/articles/2022/09/15/1663172617279.html)
+* [谷歌搜索镜像（2022-09-17 08:05:56）](https://fuyiyi.imdo.co/articles/2022/08/23/1661248650852.html)
 * [Website转换为App使用，便于手机上浏览Piwigo相册](https://fuyiyi.imdo.co/articles/2022/02/06/1644151968525.html)
 * [离线安装 npm 包的三种方式（备用）](https://fuyiyi.imdo.co/articles/2021/06/18/1623991245002.html)
 * [Cygwin/Msys2 编译安装 Openresty 过程记录](https://fuyiyi.imdo.co/articles/2021/06/09/1623196383353.html)
@@ -29,7 +30,6 @@
 * [基于 KMS 服务的 Windows、Office 激活](https://fuyiyi.imdo.co/articles/2019/07/18/1563456163229.html)
 * [感受Lambda之美，推荐收藏，需要时查阅](https://fuyiyi.imdo.co/articles/2019/06/09/1560086633135.html)
 * [记一次WebDriver无法正常加载www.xxx.com域名Cookie文件的解决办法](https://fuyiyi.imdo.co/articles/2019/05/29/1559101766149.html)
-* [Spring 定时任务 No qualifying bean of type TaskScheduler available 及 Could not find default TaskScheduler bean异常处理](https://fuyiyi.imdo.co/articles/2019/05/29/1559099232927.html)
 
 
 
