@@ -11,7 +11,7 @@
 ### 最新
 
 * [获取Hyper-V虚拟服务器磁盘信息（供个人告警使用）](https://fuyiyi.imdo.co/articles/2022/09/15/1663172617279.html)
-* [谷歌搜索镜像（2022-09-17 08:05:56）](https://fuyiyi.imdo.co/articles/2022/08/23/1661248650852.html)
+* [谷歌搜索镜像（2022-09-18 08:06:01）](https://fuyiyi.imdo.co/articles/2022/08/23/1661248650852.html)
 * [Website转换为App使用，便于手机上浏览Piwigo相册](https://fuyiyi.imdo.co/articles/2022/02/06/1644151968525.html)
 * [离线安装 npm 包的三种方式（备用）](https://fuyiyi.imdo.co/articles/2021/06/18/1623991245002.html)
 * [Cygwin/Msys2 编译安装 Openresty 过程记录](https://fuyiyi.imdo.co/articles/2021/06/09/1623196383353.html)
