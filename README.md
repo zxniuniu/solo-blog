@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Piwigo相册支持中文文件夹及文件名设置（备用）](https://fuyiyi.imdo.co/articles/2022/09/26/1664155266137.html)
 * [获取Hyper-V虚拟服务器磁盘信息（供个人告警使用）](https://fuyiyi.imdo.co/articles/2022/09/15/1663172617279.html)
 * [谷歌搜索镜像（2022-09-23 08:05:01）](https://fuyiyi.imdo.co/articles/2022/08/23/1661248650852.html)
 * [Website转换为App使用，便于手机上浏览Piwigo相册](https://fuyiyi.imdo.co/articles/2022/02/06/1644151968525.html)
@@ -29,7 +30,6 @@
 * [MacType 美化 Windows10 字体，体验类 Mac 顺滑字体](https://fuyiyi.imdo.co/articles/2019/08/09/1565314018351.html)
 * [基于 KMS 服务的 Windows、Office 激活](https://fuyiyi.imdo.co/articles/2019/07/18/1563456163229.html)
 * [感受Lambda之美，推荐收藏，需要时查阅](https://fuyiyi.imdo.co/articles/2019/06/09/1560086633135.html)
-* [记一次WebDriver无法正常加载www.xxx.com域名Cookie文件的解决办法](https://fuyiyi.imdo.co/articles/2019/05/29/1559101766149.html)
 
 
 
