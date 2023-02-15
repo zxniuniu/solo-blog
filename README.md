@@ -10,7 +10,7 @@
 
 ### 最新
 
-* [修改 Markdown 编译器 vditor 支持 JS 形式 JSON，并支持非 JSON 形式 Option](https://fuyiyi.imdo.co/articles/2023/02/10/1676015361827.html)
+* [修改 Markdown 编译器 Vditor 支持 各类型 Echarts 配置项](https://fuyiyi.imdo.co/articles/2023/02/10/1676015361827.html)
 * [Piwigo相册支持中文文件夹及文件名设置（备用）](https://fuyiyi.imdo.co/articles/2022/09/26/1664155266137.html)
 * [获取Hyper-V虚拟服务器磁盘信息（供个人告警使用）](https://fuyiyi.imdo.co/articles/2022/09/15/1663172617279.html)
 * [谷歌搜索镜像（2023-01-18 08:05:41）](https://fuyiyi.imdo.co/articles/2022/08/23/1661248650852.html)
