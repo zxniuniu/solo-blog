@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [IntelliJ 系列 | IDEA 激活服务器（备用）](https://fuyiyi.imdo.co/articles/2023/02/25/1677337616212.html)
 * [修改 Markdown 编译器 Vditor 支持 各类型 Echarts 配置项](https://fuyiyi.imdo.co/articles/2023/02/10/1676015361827.html)
 * [Piwigo相册支持中文文件夹及文件名设置（备用）](https://fuyiyi.imdo.co/articles/2022/09/26/1664155266137.html)
 * [获取Hyper-V虚拟服务器磁盘信息（供个人告警使用）](https://fuyiyi.imdo.co/articles/2022/09/15/1663172617279.html)
@@ -29,7 +30,6 @@
 * [NoteExpress 实现文献检索、下载、管理、Word参考文献自动引用](https://fuyiyi.imdo.co/articles/2019/10/09/1570595442064.html)
 * [Chrome 67版本后无法拖拽离线安装crx扩展插件的解决办法](https://fuyiyi.imdo.co/articles/2019/08/12/1565575993052.html)
 * [MacType 美化 Windows10 字体，体验类 Mac 顺滑字体](https://fuyiyi.imdo.co/articles/2019/08/09/1565314018351.html)
-* [基于 KMS 服务的 Windows、Office 激活](https://fuyiyi.imdo.co/articles/2019/07/18/1563456163229.html)
 
 
 
